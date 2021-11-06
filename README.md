@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/license/ivanfsilva/bytebank)
 
 
-![](https://img.shields.io/badge/STATUS-CONCLUIDO-green)
+![](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-red)
 
 ## Indice
 
