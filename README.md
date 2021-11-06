@@ -1,8 +1,4 @@
-# Gatito Book
-
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ivanfsilva/gatitobook/README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ivanfsilva/gatitobook/README.pt-br.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ivanfsilva/gatitobook/README.es.md)
+# Gatito Book [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ivanfsilva/gatitobook/blob/master/README.md) [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ivanfsilva/gatitobook/blob/master/README.md) [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ivanfsilva/gatitobook/blob/master/README.es.md)
 
 
 
