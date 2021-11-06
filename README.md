@@ -1,9 +1,15 @@
 # Gatito Book
 
-![](https://img.shields.io/github/issues/ivanfsilva/bytebank)
-![](https://img.shields.io/github/forks/ivanfsilva/bytebank)
-![](https://img.shields.io/github/stars/ivanfsilva/bytebank)
-![](https://img.shields.io/github/license/ivanfsilva/bytebank)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/ivanfsilva/gatitobook/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/ivanfsilva/gatitobook/README.pt-br.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/ivanfsilva/gatitobook/README.es.md)
+
+
+
+![](https://img.shields.io/github/issues/ivanfsilva/gatitobook)
+![](https://img.shields.io/github/forks/ivanfsilva/gatitobook)
+![](https://img.shields.io/github/stars/ivanfsilva/gatitobook)
+![](https://img.shields.io/github/license/ivanfsilva/gatitobook)
 
 
 ![](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-red)
@@ -34,6 +40,35 @@ Objetivos desse estudo em Angular:
 <h4 align="center"> 
 	🚧  Gatito Book - Release 1.0 em desenvolvimento...  🚧
 </h4>
+
+
+---
+
+## 🎨 Layout
+
+O layout da aplicação está disponível no Figma:
+
+<a href="https://www.figma.com/file/">
+  <img alt="Made by ivanfsilva" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
+
+
+### Mobile
+
+<p align="center">
+  <img alt="" title="" src="" width="">
+
+  <img alt="" title="" src="" width="">
+</p>
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="" title="" src="" width="">
+
+  <img alt="" title="" src="" width="">
+</p>
+
 
 ## 🛠 Tecnologias
 
