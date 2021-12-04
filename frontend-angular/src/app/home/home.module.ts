@@ -9,6 +9,9 @@ import { HomeComponent } from './home.component';
   declarations: [
     HomeComponent
   ],
+  exports: [
+    HomeComponent
+  ],
   imports: [
     CommonModule,
     HomeRoutingModule
