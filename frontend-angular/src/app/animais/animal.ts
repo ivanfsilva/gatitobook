@@ -5,6 +5,7 @@ export interface Animal {
   description: string;
   allowComments: boolean;
   comments: number;
+  likes: number;
   userId: number;
 }
 
