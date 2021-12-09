@@ -1,5 +1,8 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import {HTTP_INTERCEPTORS} from "@angular/common/http";
+
+import { AutenticacaoInterceptor } from "./autenticacao.interceptor";
 
 
 
@@ -7,6 +10,13 @@ import { CommonModule } from '@angular/common';
   declarations: [],
   imports: [
     CommonModule
+  ],
+  providers: [
+    {
+      provide: HTTP_INTERCEPTORS,
+      userClass: AutenticacaoInterceptor,
+      multi: true,
+    }
   ]
 })
 export class AutenticacaoModule { }
