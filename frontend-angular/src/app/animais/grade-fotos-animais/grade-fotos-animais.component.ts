@@ -8,10 +8,10 @@ import { Animais } from "../animais";
 })
 export class GradeFotosAnimaisComponent implements OnInit {
 
-  @Input() animais !: Animais
-  constructor() { }
+  @Input() animais!: Animais
 
-  ngOnInit(): void {
-  }
+  constructor() {}
+
+  ngOnInit(): void {}
 
 }
