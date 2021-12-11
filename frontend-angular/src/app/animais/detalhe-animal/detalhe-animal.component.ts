@@ -3,7 +3,7 @@ import { Observable } from "rxjs";
 
 import { Animal } from "../animais";
 import { AnimaisService } from "../animais.service";
-import {ActivatedRoute, Router} from "@angular/router";
+import { ActivatedRoute, Router } from "@angular/router";
 
 @Component({
   selector: 'app-detalhe-animal',
