@@ -8,7 +8,7 @@ import { Animais } from "../animais";
 })
 export class GradeFotosAnimaisComponent implements OnInit {
 
-  @Input() animais!: Animais
+  @Input() animais!: Animais;
 
   constructor() {}
 

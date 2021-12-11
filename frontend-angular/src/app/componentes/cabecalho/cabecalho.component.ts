@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-import {UsuarioService} from "../../autenticacao/usuario/usuario.service";
+import { Component } from '@angular/core';
+import { UsuarioService } from "../../autenticacao/usuario/usuario.service";
 import { Router } from "@angular/router";
 
 @Component({
@@ -16,5 +16,4 @@ export class CabecalhoComponent {
     this.usuarioService.logout();
     this.router.navigate( [''] );
   }
-
 }
