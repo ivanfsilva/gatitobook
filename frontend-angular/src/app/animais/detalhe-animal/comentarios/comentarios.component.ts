@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import {Observable} from "rxjs";
+import {Comentarios} from "./comentario";
 
 @Component({
   selector: 'app-comentarios',
@@ -6,6 +8,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./comentarios.component.css']
 })
 export class ComentariosComponent implements OnInit {
+
+  comentarios$!: Observable<Comentarios>;
 
   constructor() { }
 
